@@ -1,0 +1,4 @@
+com\ibm\magentopages\LoginPage.class
+com\ibm\magentopages\MyAccountPage.class
+com\ibm\basetest\BaseTest.class
+com\ibm\magentopages\HomePage.class

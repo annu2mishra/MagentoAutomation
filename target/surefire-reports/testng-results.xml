@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-04T08:55:00Z" name="com.ibm.basetest.BaseTest" finished-at="2019-01-04T08:55:39Z" duration-ms="38688">
+    <groups>
+    </groups>
+    <test started-at="2019-01-04T08:55:00Z" name="Command line test" finished-at="2019-01-04T08:55:39Z" duration-ms="38688">
+      <class name="com.ibm.basetest.BaseTest">
+        <test-method signature="LoginTest()[pri:0, instance:com.ibm.basetest.BaseTest@2bbf180e]" started-at="2019-01-04T08:55:00Z" name="LoginTest" finished-at="2019-01-04T08:55:39Z" duration-ms="38638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- com.ibm.basetest.BaseTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.ibm.basetest.BaseTest -->
+</testng-results>
